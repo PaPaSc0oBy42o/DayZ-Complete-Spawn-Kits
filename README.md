@@ -1,3 +1,6 @@
+These spawn loadouts are fully equipped and armed. It took me a lot of time and patience to create them, but I've refined them to be 99.9% effective. All you have to do to is edit the cfggameplay and upload.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 You can add all the corresponding loadout JSON files to the custom folders on your local PC, Xbox, and PS servers.
 
 First things first is to ensure you have cfggameplayfile.json enabled. To do so, clcik on your "General" tab under settings on your Web Interface. Scroll down and select "enable cfggameplay.json".
